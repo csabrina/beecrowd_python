@@ -26,3 +26,7 @@ elif salario > 2000:
     salarioFinal = salario + reajuste
 
 print(f"Novo salario: {salarioFinal:.2f}\nReajuste ganho: {reajuste:.2f}\nEm percentual: {percentual}")
+
+
+
+
